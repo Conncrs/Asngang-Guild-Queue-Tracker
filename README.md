@@ -4,7 +4,7 @@ A client-side Forge 1.8.9 mod that relays Mega Walls queue info to guild chat.
 
 ## Features
 
-- **Queue info on request.** When someone types `queue` or `!queue` in guild chat, the mod replies with the current map, player count, and start timer, read from the lobby scoreboard. Example:
+- **Queue info on request.** When someone types `queue` or `!queue` in guild chat, the mod replies with the current map, player count, and start timer, read from the lobby scoreboard. (needs someone in the lobby with the mod) Example:
   `Solace 14/100 - starting in 03:52 if 16 more players join`
 - **Countdown announcements.** Posts the "game is starting" message to guild chat at 30 seconds and 10 seconds.
 - **No spam.** If several people have the mod, each one waits a short random delay and cancels if someone else has already sent the same message, so only one person replies.
