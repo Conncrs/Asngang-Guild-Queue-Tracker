@@ -1,0 +1,8 @@
+[{
+  "modid": "gamerelay",
+  "name": "GameRelay",
+  "description": "Relays game start countdown messages to guild chat.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["You"]
+}]
